@@ -1,0 +1,5 @@
+attendance/
+**/node_modules/
+**/coverage/
+quizzes/
+.DS_Store
